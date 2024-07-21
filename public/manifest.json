@@ -1,0 +1,28 @@
+{
+  "short_name": "Kabish Bhattarai",
+  "name": "Kabish Bhattarai Portfolio",
+  "author": "Kabish Bhattarai",
+  "version": "1.8",
+  "description": "MERN Stack Developer.",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "400x400",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "400x400"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "developer": {
+    "name": "Kabish Bhattarai Portfolio",
+    "url": "https://www.kabishbhattarai.com.np/"
+  },
+  "manifest_version": 3
+}
