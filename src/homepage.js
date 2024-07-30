@@ -63,7 +63,7 @@ const AutoTypingHelper = () => {
         options={{
           strings: [
             "Software Developer",
-            "Full stack Web Developer",
+            "Full Stack Web Developer",
             "Open to work",
           ],
           autoStart: true,
